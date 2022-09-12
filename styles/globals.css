@@ -1,50 +1,4 @@
 
-Learn Web Development Now - BEST WAYS TO LEARN HOW TO CODE
-
-login and registration form in html and css
-on May 07, 2021 FULL WEBSITE USING HTML AND CSS LOGIN AND REGISTRATION FORM LOGIN AND REGISTRATION FROM FOR WEBSITE ONCLICK LOGIN AND REGISTRATION FORM
- 0
-Login and Registration Form with HTML5 and CSS3
-on May 05, 2021
-
-Here In this tutorial you are going to learn how to create a login and registration form using the HTML, CSS, PHP, MYSQL for the websites. 
-
-Three Major Things You Are Going to Learn
-
-You are going to learn how to create beautiful hover effect for the websites
-
-And also you are going to learn onclick event for the login and register forms. 
-
-And also connecting the Login and Registration form to the MySQL database server
-
-
-
-
-
-If you want to watch the full video of the tutorial please click on the below link or please click on the image show above
-https://www.youtube.com/watch?v=EOeBcQkwjGk
-
-Description of the project:
-In the above project you are going to learn how to create the navigation bar as shown in the above image. After creating the beautiful navigation bar you are going to learn how to add the color as the beautiful background. After adding color as the background you are going to learn how to create the subpage in the full page. After creating the subpage you are going to learn how to add the image in the sub page as the background image. After adding the image as background image to the sub page you are going to learn how to write the text on the image. After adding text you are going to learn how to add beautiful hover effect so that when you take your cursor over the image then the text appears.
-
-After creating the hover effect you are going to learn how to create the login form and registration form separately and connecting the login form to the login button and registration form to the registration button. After connecting the login form to the login button and registration form to the registration button you are going to observe that when you click on the login button login form appears and when you click on the register button registration form appears. This is because of the onlick effect of the button. We have one challenge here after login or registration appears on clicking the login or register buttons how to close that, so here you are also going to learn how to remove the login and registration form using the cross button when you click on the cross button then again the login or registration form gets disappears.
-
-After the html, css, javascript part is done you are going to learn how to connect  the login and registration form to the mysql database server using the php and mysql queries.....
-
-So please do not miss out the video you are going to learn a lot in this video....
-
-
-
-
-Do not forget to follow this blog for more interesting content provided on this blog.
-
-Note: If you have any doubt or any problem in creating the folder structure and running the program please watch this video completely, why because if you miss one step also you will get error ---the video link is given below---------
-How to create #login and #registration #form using #HTML #CSS #PHP #MYSQL - YouTube
-Note: You can download the image from the link given below ----
-https://drive.google.com/drive/folders/1IasNYtQ96hXZ828vMtcqsRkR1m7ysr-V?usp=sharing
-Note: please read each and every line in the registration.php and validate.php every one has to edit one line then only your database will work, i have mentioned a comment as a hint for you(//$connection=mysqli_connect('localhost','root','write your password here')) ------- if you have any doubt please comment under the video, the video link is given above.............
-loginandregister.php
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -394,23 +348,4 @@ session_destroy();
 header('location:loginandregister.php');
 
 ?>
-                                  sql file.sql
-create database loginandregistrationform;
-use loginandregistrationform;
-create table register_table(name varchar(30),email_id varchar(50) primary key,password varchar(20));
-
-
-LOGIN AND REGISTRATION FORM LOGIN AND REGISTRATION FORM USING PHP MYSQL HTML CSS LOGIN AND REGISTRATION FROM FOR WEBSITE ONCLICK LOGIN AND REGISTRATION FORM
-Location: INDIA
-
-Comments
-
-Popular Posts
-Image
-Html website with multiple pages
-  Hi guys!!! In this video you are going to learn how to create a website with the beautiful slider using Html, Css, Javascript and Bootstrap. And also you are going to learn how to create Multiple pages using the Html and Css. Main.html Tv.Html Movies.html Sports.html Login.html To watch full video please click the below link you will be redirected to the video page. https://www.youtube.com/watch?v=3nx9l_TeMvE Source Codes Main.html <!DOCTYPE html> <html lang="en"> <head>     <meta charset="UTF-8">     <title>seekcoding</title>     <link rel="stylesheet" href="style.css">     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"></script>     <script src="https://c
-Image
-login and registration form in html and css
-login and registration form in html and css In this video you are going to learn how to create the onlick login and registration form using the html and css........First you are going to create the navigation menu and then you are going to create the login and registration form. After creating these two we are going to connect the login and registration form to the login button in the navigation bar then you can see the beautiful click event Note: Guys you all can download the image used in this tutorial from the below link given...... https://drive.google.com/drive/folders/1EkkBfouQDhzZY2A2PP9tnStd0vau8DF2 Guys You all please follow this point then only you will get correct output...... 1. first create a folder with any name  2. now create text file with any name and place it in the above folder. 3. now create another text file with the name "style.css" (for css file you give "style.css" only do not give any other name) and place it
- Powered by Blogger
-Learn Web Development Now By Shiva
+                                  
