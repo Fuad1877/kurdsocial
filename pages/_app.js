@@ -1,1 +1,2 @@
-imort #yandex.js
+imort #index.js
+
