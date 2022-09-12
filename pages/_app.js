@@ -1,1 +1,1 @@
-https://kurdsocial.netlify.app/
+imort #yandex.js
